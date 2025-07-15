@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔍 Marketing Analyst & Consultant
+- 🔍 Marketing Analyst & Consultant for 7+ years
 - 📊 Analytics | Machine Learning | AI
 - 🎓 SMU MITB Data Science & Analytics
   
